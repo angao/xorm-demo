@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 const prompt = `
-Please select these options:
+Please enter number of operation:
 1. Create an account
 2. Show accout detail
 3. Withdraw
